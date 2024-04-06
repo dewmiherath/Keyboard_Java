@@ -13,7 +13,6 @@ import android.view.inputmethod.InputConnection;
 
 
 public class KeyboardService extends InputMethodService implements KeyboardView.OnKeyboardActionListener {
-
     private KeyboardView KeyboardView;
     private Keyboard Keyboard;
 
